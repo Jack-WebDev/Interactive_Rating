@@ -29,7 +29,7 @@ My users should be able to:
 
 - Solution URL: [https://github.com/Jack-WebDev/Interactive-Rating.git]
 
-- Live Site URL: [https://jack-webdev.github.io/Live-User-API/]
+- Live Site URL: [https://jack-webdev.github.io/Interactive-Rating/]
 
 ## My Process
 
