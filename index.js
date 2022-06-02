@@ -6,19 +6,17 @@ let rate = 0;
 
 const rateBtns = document.querySelectorAll(".rate");
 
-rateBtns.forEach((b) => {
-  b.addEventListener("click", () => {
-    rate = this.innerHTML;
-    rateBtns.forEach((btn) => btn.classList.remove("active"));
-    this.classList.add("active");
-  });
-});
+for (let i = 0; i < rateBtns.length; i++) {
+  rateBtns[i].addEventListener('click', () => {
+    rate = Number(rateBtns[i].textContent)
+  })
+}
 
 submitBtn.addEventListener("click", modalShow);
 
 function modalShow() {
   if (rate === 0) {
-    alert("Please rate us");
+    alert("Please Rate Us :)");
   } else {
     choice.innerHTML = rate;
     container.style.display = "none";
