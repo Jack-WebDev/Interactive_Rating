@@ -27,9 +27,9 @@ My users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/Jack-WebDev/Interactive-Rating.git]
+- Solution URL: [https://github.com/Jack-WebDev/Interactive_Rating.git]
 
-- Live Site URL: [https://jack-webdev.github.io/Interactive-Rating/]
+- Live Site URL: [https://jack-webdev.github.io/Interactive_Rating/]
 
 ## My Process
 
